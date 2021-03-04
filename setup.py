@@ -8,7 +8,7 @@ def read(f):
 
 setup(
     name="gradient-generator",
-    version="0.1.0",
+    version="0.1.1",
     description="Generate random but beautiful gradients in a super simple way.",
     long_description=read('README.md'),
     long_description_content_type="text/markdown",

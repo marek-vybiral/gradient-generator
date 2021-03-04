@@ -3,7 +3,8 @@ Generate random but beautiful gradients in a super simple way.
 
 ## Demo
 [![gradient](https://gradient-demo.lab.9roads.red/gradient?w=640&h=480)](https://gradient-demo.lab.9roads.red)
-You can check out more examples [here](https://gradient-demo.lab.9roads.red)
+
+You can check out more examples [here](https://gradient-demo.lab.9roads.red).
 
 ## Features
 - Super simple usage

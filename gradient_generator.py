@@ -104,4 +104,5 @@ def generate_gradient(width: int, height: int):
     output = io.BytesIO()
     im.save(output, 'png')
 
+    output.seek(0)
     return output
